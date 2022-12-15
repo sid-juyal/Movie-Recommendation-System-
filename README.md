@@ -12,12 +12,15 @@ Cosine similarity is a metric used to measure how similar the documents are irre
 
 ![143417796-8602832b-aac9-4f4f-b930-b753dc050981](https://user-images.githubusercontent.com/65865527/207930812-9c960988-c76a-462c-8a9b-446495daf7b3.png)
 
-### Description
+### Description:
 An end-to-end Movie Recommendation System Application.
+
 The dataset that I have used here is the TMDB 5000 Movie Dataset. Under this dataset, there are 2 files:
 1. tmdb_5000_movies.csv: It includes 20 columns like budget, genres, id, keywords, title, tagline, etc.
 2. tmdb_5000_credtis.csv: It includes 4 columns- movie_id, title, cast, and crew.
+
 My Recommender model takes a movie title as input and predicts top-n most similar movies based on the tag. 
+
 Also, I have this project as a web app hosted on localhost with the help of streamlit.
 
 ### Input:
