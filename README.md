@@ -29,6 +29,11 @@ Also, I have this project as a web app hosted on localhost with the help of stre
 ### Output:
 ![output](https://user-images.githubusercontent.com/65865527/207927839-5d272ea3-36dc-4063-b408-35c05cb1f1a3.png)
 
+### Live Link:
+
+Link: https://huggingface.co/spaces/juyal-sid/movie-recommender-system
+
+
 ### User Interafce:
 ![ui1](https://user-images.githubusercontent.com/65865527/207927971-20f88cd9-9425-4b88-907f-e2b26002b23f.png)
 
